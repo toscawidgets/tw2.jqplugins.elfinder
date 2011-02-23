@@ -14,7 +14,6 @@ tw2.jqplugins.elfinder is a `toscawidgets2 (tw2)`_ wrapper for `elFinder`_.
 
 Live Demo
 ---------
-Coming soon.
 .. comment: Peep the `live demonstration <http://craftsman.rc.rit.edu/module?module=tw2.jqplugins.elfinder>`_.
 
 Links
@@ -41,7 +40,7 @@ you write JavaScript.
 `elFinder`_ is an open-source file manager for web, written in JavaScript using
 jQuery UI.  It is inspired by Finder in Mac OS X.
 
-The main goal of the file manager - is to let you work with remote files with
+The main goal of the file manager is to let you work with remote files with
 the same convenience as on your own computer.
 
 This module, tw2.jqplugins.elfinder, provides `toscawidgets2 (tw2)`_ access to the
