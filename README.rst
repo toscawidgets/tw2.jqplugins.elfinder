@@ -8,13 +8,14 @@ tw2.jqplugins.elfinder
 .. _toscawidgets2 (tw2): http://toscawidgets.org/documentation/tw2.core/
 .. _jQuery UI: http://jqueryui.com/
 .. _jQuery: http://jquery.com/
+.. _elFinder: http://elrte.org/elfinder/
 
 tw2.jqplugins.elfinder is a `toscawidgets2 (tw2)`_ wrapper for `elFinder`_.
 
 Live Demo
 ---------
-.. comment: Peep the `live demonstration <http://craftsman.rc.rit.edu/module?module=tw2.jqplugins.elfinder>`_.
 Coming soon.
+.. comment: Peep the `live demonstration <http://craftsman.rc.rit.edu/module?module=tw2.jqplugins.elfinder>`_.
 
 Links
 -----
