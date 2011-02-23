@@ -1,5 +1,5 @@
 tw2.jqplugins.elfinder
-=====================
+======================
 
 :Author: Joseph Tate <jtate@dragonstrider.com>
 
@@ -44,4 +44,4 @@ The main goal of the file manager - is to let you work with remote files with
 the same convenience as on your own computer.
 
 This module, tw2.jqplugins.elfinder, provides `toscawidgets2 (tw2)`_ access to the
-`elRTE`_ widget.
+`elFinder`_ widget.
