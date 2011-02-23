@@ -1,4 +1,4 @@
-tw2.jqplugins.elrte
+tw2.jqplugins.elfinder
 =====================
 
 :Author: Joseph Tate <jtate@dragonstrider.com>
@@ -9,18 +9,19 @@ tw2.jqplugins.elrte
 .. _jQuery UI: http://jqueryui.com/
 .. _jQuery: http://jquery.com/
 
-tw2.jqplugins.elrte is a `toscawidgets2 (tw2)`_ wrapper for `elRTE`_.
+tw2.jqplugins.elfinder is a `toscawidgets2 (tw2)`_ wrapper for `elFinder`_.
 
 Live Demo
 ---------
-.. comment: Peep the `live demonstration <http://craftsman.rc.rit.edu/module?module=tw2.jqplugins.ui>`_.
+.. comment: Peep the `live demonstration <http://craftsman.rc.rit.edu/module?module=tw2.jqplugins.elfinder>`_.
+Coming soon.
 
 Links
 -----
-Get the `source from github <http://github.com/ralphbean/tw2.jqplugins.ui>`_.
+Get the `source from bitbucket <http://bitbucket.org/josephtate/tw2.jqplugins.elfinder>`_.
 
-`PyPI page <http://pypi.python.org/pypi/tw2.jqplugins.elrte>`_
-and `bugs <http://github.com/ralphbean/tw2.jqplugins.ui/issues/>`_
+`PyPI page <http://pypi.python.org/pypi/tw2.jqplugins.elfinder>`_ (coming soon)
+and `bugs <http://bitbucket.org/josephtate/tw2.jqplugins.elfinder/issues>`_
 
 Description
 -----------
@@ -36,9 +37,11 @@ document traversing, event handling, animating, and Ajax interactions
 for rapid web development. jQuery is designed to change the way that
 you write JavaScript.
 
-`elRTE`_ is a an open-source WYSIWYG HTML-editor written in JavaScript using jQuery UI. It features rich text editing, options for changing its appearance, style and many more. You can use it in any commercial or non-commercial projects.
+`elFinder`_ is an open-source file manager for web, written in JavaScript using
+jQuery UI.  It is inspired by Finder in Mac OS X.
 
-Main goal of the editor - simplify work with text and formating (HTML) on sites, blogs, forums and other online services.
+The main goal of the file manager - is to let you work with remote files with
+the same convenience as on your own computer.
 
-This module, tw2.jqplugins.elrte, provides `toscawidgets2 (tw2)`_ access to the
+This module, tw2.jqplugins.elfinder, provides `toscawidgets2 (tw2)`_ access to the
 `elRTE`_ widget.
