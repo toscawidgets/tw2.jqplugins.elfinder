@@ -1,6 +1,9 @@
 import webob as wo
 import elFinder
-import json
+try:
+    import json
+except ImportError:
+    import simplejson as json
 
 class file_streamer(object):
     def __init__(self, fileobj, buffsize=4096):
