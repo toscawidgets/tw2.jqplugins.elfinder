@@ -25,7 +25,7 @@ elfinder_js = jqbase.jQueryPluginJSLink(name=defaults._elfinder_name_,
 elfinder = jqbase.jQueryJSLink(resources=[jquibase.jquery_ui_js, elfinder_css, elfinder_js])
 
 class elFinderWidget(jquibase.JQueryUIWidget):
-    resources = [elfinder]
+    resources = [jquibase.jquery_ui_js, elfinder_css, elfinder_js]
     url = twc.params.Param('Connector URL', default=twc.params.Required)
     template = 'tw2.jqplugins.elfinder.templates.widget'
 

@@ -1,5 +1,5 @@
 <%namespace name="tw" module="tw2.core.mako_util"/>
-<textarea ${tw.attrs(attrs=w.attrs)}>${w.value or ''}</textarea>
+<div ${tw.attrs(attrs=w.attrs)}></div>
 <script type="text/javascript">
 $(function() {
     $("#${w.selector}").elfinder(${w.options});
