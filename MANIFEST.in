@@ -1,0 +1,4 @@
+recursive-include tw2/jqplugins/elfinder/static *
+recursive-include tw2/jqplugins/elfinder/templates *
+include README.rst
+include LICENSE.txt
