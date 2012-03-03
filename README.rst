@@ -18,10 +18,10 @@ Live Demo
 
 Links
 -----
-Get the `source from bitbucket <http://bitbucket.org/josephtate/tw2.jqplugins.elfinder>`_.
+Get the `source from github <http://github.org/ralphbean/tw2.jqplugins.elfinder>`_.
 
-`PyPI page <http://pypi.python.org/pypi/tw2.jqplugins.elfinder>`_ (coming soon)
-and `bugs <http://bitbucket.org/josephtate/tw2.jqplugins.elfinder/issues>`_
+`PyPI page <http://pypi.python.org/pypi/tw2.jqplugins.elfinder>`_
+and `bugs <http://github.org/ralphbean/tw2.jqplugins.elfinder/issues>`_
 
 Description
 -----------
