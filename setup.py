@@ -12,13 +12,13 @@ _extra_mako = ["Mako >= 0.1.1"]
 
 setup(
     name='tw2.jqplugins.elfinder',
-    version='2.0b10',
+    version='2.0b11',
     description='toscawidgets2 wrapper for elRTE',
     long_description=long_description,
     author='Joseph Tate',
     author_email='jtate@dragonstrider.com',
     license='MIT',
-    url='http://github.com/ralphbean/tw2.jqplugins.elfinder',
+    url='http://github.com/toscawidgets/tw2.jqplugins.elfinder',
     install_requires=[
         "tw2.core>=2.0b2",
         "tw2.forms",
