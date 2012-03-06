@@ -18,10 +18,10 @@ Live Demo
 
 Links
 -----
-Get the `source from github <http://github.org/ralphbean/tw2.jqplugins.elfinder>`_.
+Get the `source from github <http://github.org/toscawidgets/tw2.jqplugins.elfinder>`_.
 
 `PyPI page <http://pypi.python.org/pypi/tw2.jqplugins.elfinder>`_
-and `bugs <http://github.org/ralphbean/tw2.jqplugins.elfinder/issues>`_
+and `bugs <http://github.org/toscawidgets/tw2.jqplugins.elfinder/issues>`_
 
 Description
 -----------
@@ -45,3 +45,22 @@ the same convenience as on your own computer.
 
 This module, tw2.jqplugins.elfinder, provides `toscawidgets2 (tw2)`_ access to the
 `elFinder`_ widget.
+
+Sampling tw2.jqplugins.elfinder in the WidgetBrowser
+----------------------------------------------------
+
+The best way to scope out ``tw2.jqplugins.elfinder`` is to load its widgets in the
+``tw2.devtools`` WidgetBrowser.  To see the source code that configures them,
+check out ``tw2.jqplugins.elfinder/tw2/jqplugins/elfinder/samples.py``
+
+To give it a try you'll need git, python, and `virtualenvwrapper
+<http://pypi.python.org/pypi/virtualenvwrapper>`_.  Run::
+
+    $ git clone git://github.com/toscawidgets/tw2.jqplugins.elfinder.git
+    $ cd tw2.jqplugins.elfinder
+    $ mkvirtualenv tw2.jqplugins.elfinder
+    (tw2.jqplugins.elfinder) $ pip install tw2.devtools
+    (tw2.jqplugins.elfinder) $ python setup.py develop
+    (tw2.jqplugins.elfinder) $ paster tw2.browser
+
+...and browse to http://localhost:8000/ to check it out.
